@@ -1,7 +1,26 @@
 # ##INDEX:
 
 # Section 1 - Arrays, Strings and Linked Lists 
-# * Arrays
+# * Arrays *
+
+#intisialising the array
+arr = [1, 2, 3, 4, 5]
+
+#accessing an element
+print(arr[2])  # Output: 3
+
+#appending element
+arr.append(6)
+print(arr)  # Output: [1, 2, 3, 4, 5, 6]
+
+#appending at a certain index
+arr.insert(3, 10)
+print(arr)  
+
+#output: [1, 2, 3, 10, 4, 5, 6]
+
+
+
 # * Strings
 # * Doubly Linked Lists 
 # * Circular Linked Lists 
