@@ -1,4 +1,4 @@
-##INDEX:
+INDEX:
 
 Section 1 - Arrays, Strings and Linked Lists 
 * Arrays
